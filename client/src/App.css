@@ -1,0 +1,9 @@
+.form {
+  padding: 1rem;
+  max-width: 371px;
+  margin: 0 auto;
+}
+
+.form > * {
+  color: white;
+}
